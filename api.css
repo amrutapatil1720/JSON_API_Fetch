@@ -1,0 +1,26 @@
+html,body,div {
+	background-color: lightskyblue;
+	height: 95%;
+}
+footer {
+   text-align: center;
+   margin-top : 5px;
+  
+}
+footer a:link {
+	color: goldenrod;
+	font-weight:bold;
+	 
+}
+p.size {
+	font-weight:bold;
+}
+body {
+		max-height: 90%;
+		line-height: 1;
+}
+.container-dice {
+  display: inline-block;
+  margin-top: 100px;
+  width: 300px;
+  margin: 50px auto 0 auto; }
